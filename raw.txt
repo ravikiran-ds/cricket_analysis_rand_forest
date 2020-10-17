@@ -1,0 +1,63 @@
+Player	Runs	Balls	Fours	Sixes	Result	Opp
+David Warner	6	6	1	0	Lose	RCB
+Jonny	61	43	6	2	Lose	RCB
+Manish Pandey 	34	33	3	1	Lose	RCB
+Priyam Garg 	12	13	1	0	Lose	RCB
+Vijay Shankar 	0	1	0	0	Lose	RCB
+Abhishek Sharma 	7	4	1	0	Lose	RCB
+Rashid Khan 	6	5	1	0	Lose	RCB
+Bhuvneshwar Kumar 	0	2	0	0	Lose	RCB
+Sandeep Sharma 	9	6	1	0	Lose	RCB
+Mitchell Marsh 	0	1	0	0	Lose	RCB
+T Natarajan 	3	4	0	0	Lose	RCB
+David Warner	36	30	2	1	Lose	KKR
+Jonny	5	10	0	0	Lose	KKR
+Manish Pandey 	51	38	3	2	Lose	KKR
+W Saha  	30	31	1	1	Lose	KKR
+Nabi 	11	8	2	0	Lose	KKR
+Abhishek Sharma 	2	3	0	0	Lose	KKR
+David Warner	45	33	3	2	Win	DC
+Jonny	53	48	2	1	Win	DC
+Manish Pandey 	3	5	0	0	Win	DC
+Kane	41	26	5	0	Win	DC
+Abdul Samad 	12	7	1	1	Win	DC
+Abhishek Sharma 	1	1	0	0	Win	DC
+David Warner	28	29	3	0	Win	CSK
+Jonny	0	3	0	0	Win	CSK
+Manish Pandey 	29	21	5	0	Win	CSK
+Kane	9	13	1	0	Win	CSK
+Priyam Garg 	51	26	6	1	Win	CSK
+Abhishek Sharma 	31	24	4	1	Win	CSK
+Abdul Samad 	8	6	0	0	Win	CSK
+David Warner	60	44	5	2	Lose	MI
+Jonny	25	15	2	2	Lose	MI
+Manish Pandey 	30	19	4	1	Lose	MI
+Kane	3	5	0	0	Lose	MI
+Priyam Garg 	8	7	0	0	Lose	MI
+Abhishek Sharma 	10	13	0	0	Lose	MI
+Abdul Samad 	20	9	1	2	Lose	MI
+Rashid Khan 	3	7	0	0	Lose	MI
+Sandeep Sharma 	0	1	0	0	Lose	MI
+David Warner	52	40	5	1	Win	KXIP
+Jonny	97	55	7	6	Win	KXIP
+Abdul Samad 	8	7	1	0	Win	KXIP
+Manish Pandey 	1	2	0	0	Win	KXIP
+Kane	20	10	1	1	Win	KXIP
+Priyam Garg 	0	1	0	0	Win	KXIP
+Abhishek Sharma 	12	6	1	1	Win	KXIP
+Rashid Khan 	0	0	0	0	Win	KXIP
+David Warner	48	38	3	2	Lose	RR
+Jonny	16	19	0	1	Lose	RR
+ Manish Pandey 	54	44	2	3	Lose	RR
+Kane	22	12	0	2	Lose	RR
+Priyam Garg 	15	8	1	1	Lose	RR
+David Warner	9	13	0	0	Lose	CSK
+Jonny	23	24	2	0	Lose	CSK
+Manish Pandey 	4	3	1	0	Lose	CSK
+Kane	57	39	7	0	Lose	CSK
+Priyam Garg 	16	18	1	0	Lose	CSK
+Vijay Shankar 	12	7	0	1	Lose	CSK
+Rashid Khan 	14	8	1	1	Lose	CSK
+ Shahbaz Nadeem 	5	5	1	0	Lose	CSK
+Sandeep Sharma 	1	2	0	0	Lose	CSK
+T Natarajan 	0	1	0	0	Lose	CSK
